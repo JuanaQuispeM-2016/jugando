@@ -3,7 +3,7 @@ header{padding: 2px;
        margin: 2px;
        color: #fff;
        border-bottom: solid #ffffff 1px;
-       background: #4dff4d;}
+       background-color: #ffffff;}
 .logo{width: 80px;
       height: 80px;} 
 nav ul{list-style-type: none;
@@ -23,7 +23,7 @@ nav a{text-decoration: none;
       color: #000000;
       }  
 nav a:hover{color: #fff;}
-  
+.plomo{background: url(img/fondo2.jpg)} 
 .uno{height: 300px;
      width: 100%;}
   p{color: #000000;
@@ -35,16 +35,4 @@ nav a:hover{color: #fff;}
      margin-bottom: 28px;}                            
 .contenedor{width: 100%;}
 .img{display: inline-block;}
-                              
-.seccion{
-      margin-top: 30px;
-      padding right:0;
-      padding left:0;
-}
-.seccion1 img{
-      width: 100%;
-}
-.seccion1 .c{
-      background: url("../img/fondo.jpg");
-     background-size: contain;
-}
+                            
